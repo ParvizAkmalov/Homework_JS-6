@@ -1,5 +1,5 @@
 let array = [[[[{ a: [{b:{name:"Davlatshoh"}}] }]],[[{r: [{age: 24}]}]]],[[{t:"Yoshim"}]],
-[{k:"da"}],[[[{g: [[{h:"Salom mening ismim"}]]}]]]]
+[{k:"da."}],[[[{g: [[{h:"Salom mening ismim"}]]}]]]]
 
 console.log(
     array[3][0][0][0].g[0][0].h,
